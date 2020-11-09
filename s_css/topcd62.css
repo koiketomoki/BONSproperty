@@ -25,7 +25,7 @@ body.toppage header h1 {
 body.toppage header h1 a {
     display: block;
     height: 0.41rem;
-    background-image: url("../common/img/header_logo.png");
+    background-image: url("../common/img/BONDSproperty_logo.png");
     background-position: 0 0;
     background-repeat: no-repeat;
     background-size: auto 100%;
@@ -33,25 +33,25 @@ body.toppage header h1 a {
 }
 
 body.toppage header.fixed h1 a {
-    background-image: url("../common/img/header_logo_kasou.png");
+    background-image: url("../common/img/BONDSproperty_logo.png");
     background-position: 0 0;
     background-repeat: no-repeat;
     background-size: auto 100%;
 }
 
 body.menu_open header.fixed h1 a {
-    background-image: url("../common/img/header_logo.png");
+    background-image: url("../common/img/BONDSproperty_logo.png");
 }
 
 @media screen and (min-width: 768px) {
     body.toppage header h1 a {
-        background-image: url("../common/img/header_logo.png") !important;
+        background-image: url("../common/img/BONDSproperty_logo.png") !important;
         background-position: 0 0;
         background-repeat: no-repeat;
         background-size: auto 100%;
     }
     body.toppage header.fixed h1 a {
-        background-image: url("../common/img/header_logo_kasou.png") !important;
+        background-image: url("../common/img/BONDSproperty_logo.png") !important;
         background-position: 0 0;
         background-repeat: no-repeat;
         background-size: auto 100%;

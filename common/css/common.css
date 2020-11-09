@@ -494,7 +494,7 @@ header ul li a::before {
     left: 0;
     width: 0%;
     height: 2px;
-    background: #008090;
+    background: #33ac1b;
     transition: all 0.3s ease;
 }
 
@@ -591,7 +591,7 @@ header ul li:last-child::after {
 #sp_mail_btn {
     position: absolute;
     top: 0.2rem;
-    right: 0.7rem;
+    right: 0.6rem;
     width: 0.3rem;
     z-index: 10;
 }
@@ -1026,7 +1026,7 @@ footer .footer_right li a {
 
 footer .footer_right li a::before {
     content: "▶";
-    color: #00A0B4;
+    color: #33ac1b;
     padding-right: 0.04rem;
     font-size: 0.08rem;
     position: relative;

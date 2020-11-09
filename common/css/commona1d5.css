@@ -388,7 +388,7 @@ header ul li a::before {
 	left: 0;
 	width: 0%;
 	height: 2px;
-	background: #008090;
+	background: #33ac1b;
 	transition: all 0.3s ease;
 }
 header ul li a:hover::before, .fixed ul li a:hover::before {

@@ -8,14 +8,14 @@ $(function(){
 		$('header nav').fadeToggle(200);
 		$('body').toggleClass('menu_open');
 
-		if($(this).hasClass("active")) { 
-			$('.header_mail').attr('src','/common/img/sp_mail_btn.png'); 
-			$('.header_logo').attr('src','/common/img/header_logo.png'); 
-		} else { 
-			$('.header_mail').attr('src','/common/img/sp_mail_btn_black.png'); 
-			$('.header_logo').attr('src','/common/img/header_logo_kasou.png');
+		if($(this).hasClass("active")) {
+			$('.header_mail').attr('src','../common/img/sp_mail_btn.png');
+		 $('.header_logo').attr('src','../common/img/BONDSproperty_logo.png');
+		} else {
+			$('.header_mail').attr('src','../common/img/sp_mail_btn_black.png');
+		 $('.header_logo').attr('src','../common/img/BONDSproperty_logo.png');
 		}
-		
+
 	});
 
 	$('header nav a, #sp_menu_close a').click(function(){
@@ -23,14 +23,14 @@ $(function(){
 		$('#SPnaviBtn').removeClass('active');
 		$('body').removeClass('menu_open');
 
-		if($('#SPnaviBtn').hasClass("active")) { 
-			$('.header_mail').attr('src','/common/img/sp_mail_btn.png'); 
-			$('.header_logo').attr('src','/common/img/header_logo.png'); 
-		} else { 
-			$('.header_mail').attr('src','/common/img/sp_mail_btn_black.png'); 
-			$('.header_logo').attr('src','/common/img/header_logo_kasou.png');
+		if($('#SPnaviBtn').hasClass("active")) {
+			$('.header_mail').attr('src','../common/img/sp_mail_btn.png');
+			$('.header_logo').attr('src','../common/img/BONDSproperty_logo.png');
+		} else {
+			$('.header_mail').attr('src','../common/img/sp_mail_btn_black.png');
+			$('.header_logo').attr('src','../common/img/BONDSproperty_logo.png');
 		}
-		
+
 	});
 
 	/* mvを超えたらヘッダー固定 */
@@ -38,7 +38,7 @@ $(function(){
 
 		var mvH = $('#mv').height();
 		$(window).on('load scroll', function () {
-		
+
 			if ($(this).scrollTop() > mvH ) {
 				$('header').addClass('fixed');
 			} else {
@@ -88,4 +88,3 @@ $(document).ready(function() {
               return false;
    });
 });
-

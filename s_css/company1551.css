@@ -3,7 +3,7 @@ header ul li:nth-of-type(2) a {
     border-bottom: 2px solid #fff;
 }
 .fixed ul li:nth-of-type(2) a {
-    border-bottom: 2px solid #008090;
+    border-bottom: 2px solid #33ac1b;
 }
 header ul li:nth-of-type(1) a {
     border-bottom: none !important;
@@ -15,7 +15,7 @@ header ul li:nth-of-type(1) a {
 }
 @media screen and (max-width:767px) {
 	header ul li:nth-of-type(2) a {
-		border-bottom: 2px solid #008090;
+		border-bottom: 2px solid #33ac1b;
 		padding-bottom: 0.04rem;
 	}
     }
