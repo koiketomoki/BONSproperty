@@ -2388,7 +2388,7 @@ dlレイアウト
 	}
 }
 .contact .contact_form .cap {
-	color: #00A0B4;
+	color: #33ac1b;
 	font-weight: bold;
 	font-size: 0.18rem;
 	text-align: center;
@@ -2433,7 +2433,7 @@ dlレイアウト
 	background: #fff;
 	width: 3rem;
 	height: 80px;
-	border: 2px solid #00A0B4;
+	border: 2px solid #33ac1b;
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
 	margin: 0;
@@ -2449,7 +2449,7 @@ dlレイアウト
 	pointer-events: auto;
 }
 .radio_addressBox .radio:hover{
-	background: #00A0B4;
+	background: #33ac1b;
 }
 .radio_addressBox .radio:hover + span {
 	color: #fff;
@@ -2463,7 +2463,7 @@ dlレイアウト
 	cursor: pointer;
 }
 .radio_addressBox span label span{
-	color: #00A0B4;
+	color: #33ac1b;
 	font-weight: bold;
 	font-size: 0.16rem;
 	text-align: center;
@@ -2510,7 +2510,7 @@ dlレイアウト
 	}
 }
 .radio_addressBox .current {
-	background: #00A0B4;
+	background: #33ac1b;
 	position: relative;
 	border-radius: 0;
 }
@@ -2526,7 +2526,7 @@ dlレイアウト
 	height: 0;
 	border-left: 0.13rem solid transparent;
 	border-right: 0.13rem solid transparent;
-	border-top: 0.15rem solid #00A0B4;
+	border-top: 0.15rem solid #33ac1b;
 }
 @media screen and (max-width: 767px) {
 	.radio_addressBox .current:after {
@@ -2803,7 +2803,7 @@ dlレイアウト
 .formlist[data-need] .formlistTit span:after ,
 .formlist[data-need-hissu_by_onlyvalue] .formlistTit span:after {
 	content: "必須";
-	background-color: #00A0B4;
+	background-color: #33ac1b;
 	padding: .015rem .06rem;
 	color: #FFF;
 	font-size: .14rem;
@@ -2814,7 +2814,7 @@ dlレイアウト
 	border-radius: 0.02rem;
 }
 @media screen and (max-width: 767px) {
-	
+
 	.formlist[data-need] .formlistTit span:after ,
 	.formlist[data-need-hissu_by_onlyvalue] .formlistTit span:after {
 		padding: .04rem .055rem;
@@ -3151,7 +3151,7 @@ dlレイアウト
 	display: block;
 	text-align: center;
 	display: block;
-	border: 1px solid #00A0B4;
+	border: 1px solid #33ac1b;
 	padding: 0.2rem;
 	border-radius: 40px;
 	text-decoration: none;
@@ -3172,7 +3172,7 @@ dlレイアウト
 	}
 }
 .contact .contact_form .formbtnarea .confirm:hover, .contact .contact_form .formbtnarea .back:hover, .contact .contact_form .formbtnarea .finbtn:hover {
-	background-color: #00A0B4;
+	background-color: #33ac1b;
 	color: #FFF;
 	background-image: url(../common/img/link_arrow_white.png);
 	background-position: 90% center;
@@ -3187,7 +3187,7 @@ dlレイアウト
 	background: transparent;
 	border: 0;
 	font-size: 0.16rem;
-	color: #00A0B4;
+	color: #33ac1b;
 	line-height: 1;
 	font-weight: bold;
 	letter-spacing: 0.05em;

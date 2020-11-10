@@ -407,7 +407,7 @@ body.toppage header h1 {
 	transform: translate(-50%, 0);
 	width: 8.19rem;
 	height: 5.24rem;
-	background-image: url(../img/company/philosophy_bg.jpg);
+	background-image: url();
 	background-size: cover;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -429,7 +429,7 @@ body.toppage header h1 {
 		margin: 0.425rem 0 0.49rem;
 		padding: 0.63rem 0 0.69rem;
 		height: auto;
-		background-image: url(../img/company/philosophy_bg_sp.jpg);
+		background-image: url();
 		background-size: cover;
 		background-position: center center;
 		background-repeat: no-repeat;
@@ -457,7 +457,7 @@ body.toppage header h1 {
 	}
 	.philosophyArea .txt {
 		font-size: 0.18rem;
-		letter-spacing: 0.05em;
+		letter-spacing: 0.04em;
 		line-height: 1.83;
 		text-align: left;
 	}
@@ -515,7 +515,7 @@ body.toppage header h1 {
 	font-weight: 500;
 }
 .overviewArea .group .right .txt {
-	font-size: 0.16rem;
+	font-size: 0.15rem;
 	font-weight: 500;
 	color: #000000;
 	line-height: 1.875;
