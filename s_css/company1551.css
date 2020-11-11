@@ -125,7 +125,7 @@ body.toppage header h1 {
 .company_mv {
 	position: relative;
 	padding-top: 37.5%;
-	background-image: url("../img/company/mv.jpg");
+	background-image: url("../img/company/bp_mv_pc.jpg");
 	background-repeat: no-repeat;
 	background-position: center top;
 	background-size: 100% auto;
@@ -138,7 +138,7 @@ body.toppage header h1 {
 @media screen and (max-width:767px) {
 	.company_mv {
 		padding-top: 2.7rem;
-		background-image: url("../img/company/mv_sp.jpg");
+		background-image: url("../img/company/bp_mv_pc.jpg");
 		background-repeat: no-repeat;
 		background-position: center top;
 		background-size: 100% auto;
