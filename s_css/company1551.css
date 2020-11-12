@@ -407,7 +407,7 @@ body.toppage header h1 {
 	transform: translate(-50%, 0);
 	width: 8.19rem;
 	height: 5.24rem;
-	background-image: url();
+	background-image: url("../img/company/BP_philosophy_bg.jpg"); 
 	background-size: cover;
 	background-position: center center;
 	background-repeat: no-repeat;

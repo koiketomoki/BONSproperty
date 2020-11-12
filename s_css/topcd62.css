@@ -833,7 +833,7 @@ background-size: 100%;
 }
 
 .service_works_text p {
-    font-size: 0.16rem;
+    font-size: 0.18rem;
     line-height: 2.12;
 }
 
@@ -1117,7 +1117,7 @@ background-size: 100%;
 }
 
 .recruit_text {
-    max-width: 460px;
+    max-width: 546px;
     position: relative;
     padding-bottom: 1rem;
 }
