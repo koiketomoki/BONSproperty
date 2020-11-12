@@ -89,8 +89,9 @@ header ul li:last-child a {
 }
 header ul li:last-child a:hover {
   color: #fff !important;
-  background-color: #000 !important;
+  background-color: #33ac1b !important;
   background-image: url("../img/link_arrow_white.png") !important;
+  border-color: #33ac1b !important;
   }
   @media screen and (max-width:900px) {
     header{

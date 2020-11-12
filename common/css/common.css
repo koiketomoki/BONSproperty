@@ -572,8 +572,9 @@ header ul li:last-child a:hover {
 }
 
 header.fixed ul li:last-child a:hover {
-    background-color: #111;
+    background-color: #2c9617;
     color: #FFF;
+    border-color: #2c9617;
     background-image: url("../img/link_arrow_white.png");
     background-position: 90% center;
     background-repeat: no-repeat;
@@ -884,9 +885,10 @@ section {
 }
 
 .more_btn_white a:hover {
-    background-color: #FFF;
-    color: #282C3C;
-    background-image: url("../img/link_arrow_kon.png");
+    background-color: #2c9617;
+    color: #FFF;
+      border: 1px solid #2c9617;
+    background-image: url("../img/link_arrow_white.png");
     background-position: 90% center;
     background-repeat: no-repeat;
     background-size: 0.06rem;

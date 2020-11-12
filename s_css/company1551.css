@@ -388,7 +388,7 @@ body.toppage header h1 {
 
 
 .philosophyArea {
-	padding: 1.15rem 0 0.78rem;
+	padding: 0.15rem 0 0.78rem;
 	text-align: center;
 	position: relative;
 	height: 6.03rem;
@@ -407,11 +407,12 @@ body.toppage header h1 {
 	transform: translate(-50%, 0);
 	width: 8.19rem;
 	height: 5.24rem;
-	background-image: url("../img/company/BP_philosophy_bg.jpg"); 
+	background-image: url("../img/company/BP_philosophy_bg.jpg");
 	background-size: cover;
 	background-position: center center;
 	background-repeat: no-repeat;
 	z-index: -1;
+  opacity: 0.4;
 }
 .philosophyArea .title {
 	margin-bottom: 0.46rem;
