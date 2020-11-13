@@ -2533,7 +2533,7 @@ dlレイアウト
 		bottom: -0.08rem;
 		border-left: 0.07rem solid transparent;
 		border-right: 0.07rem solid transparent;
-		border-top: 0.09rem solid #00A0B4;
+		border-top: 0.09rem solid #33ac1b;
 	}
 }
 .radio_addressBox .current + span {
@@ -2551,7 +2551,7 @@ dlレイアウト
 	margin-right: 10px;
 }
 .shubetsuChangeSP {
-	border: 1px solid #00A0B4;
+	border: 1px solid #33ac1b;
 	position: relative;
 	margin-bottom: 30px;
 }
@@ -2587,7 +2587,7 @@ dlレイアウト
 	left: 0;
 	right: 0;
 	margin: auto;
-	border-top: 8px solid #00A0B4;
+	border-top: 8px solid #33ac1b;
 	border-left: 7px solid transparent;
 	border-right: 7px solid transparent;
 	border-bottom: 8px solid transparent;
@@ -2603,16 +2603,16 @@ dlレイアウト
 }
 .shubetsuChangeSP .one.active {
 	height: auto;
-	background-color: #00A0B4;
+	background-color: #33ac1b;
 }
 .shubetsuChangeSP .one + .one {
-	border-top: 1px solid #00A0B4;
+	border-top: 1px solid #33ac1b;
 }
 .shubetsuChangeSP .one span {
 	display: block;
 	padding: 17px 0;
 	background-color: transparent!important;
-	color: #00A0B4;
+	color: #33ac1b;
 	font-weight: bold;
 	font-size: 0.16rem;
 	text-align: center;
@@ -2641,8 +2641,8 @@ dlレイアウト
 .shubetsuChangeSP .one:after {
 	content: "";
 	display: block;
-	border-bottom: 2px solid #00A0B4;
-	border-right: 2px solid #00A0B4;
+	border-bottom: 2px solid #33ac1b;
+	border-right: 2px solid #33ac1b;
 	width: 4px;
 	height: 4px;
 	position: absolute;
@@ -3248,7 +3248,7 @@ dlレイアウト
 @media screen and (max-width: 767px) {
 	.contact .contact_mv {
 		padding: 0.7rem 0 0.62rem;
-		background-image: url(../img/mv_purple_sp.jpg);
+		background-image: url("../img/BP_contact_top.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-repeat: no-repeat;

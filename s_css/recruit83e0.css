@@ -34,7 +34,7 @@ max-width: 2.15rem;
 body.toppage header h1 a {
 display: block;
 height: 0.41rem;
-/* background-image: url("../common/img/header_logo.png"); */
+background-image: url("../common/img/BONDSproperty_logo.png");
 background-position: 0 0;
 background-repeat: no-repeat;
 background-size: auto 100%;
@@ -138,7 +138,7 @@ animation: fadeIn 1s ease 0s 1 normal;
 @media screen and (max-width:767px) {
 	.recruit_mv {
 		padding-top: 2.7rem;
-		background-image: url("../img/top_recruit_header_sp.jpg");
+		background-image: url("../img/recruit/Bp_recruit_bg_sp.jpg");
 		background-repeat: no-repeat;
 		background-position: center top;
 		background-size: 100% auto;

@@ -107,13 +107,13 @@ MV
 
 @media screen and (max-width: 800px) {
     #mv {
-        height: 50vh;
+        height: 50vh!important;
     }
 }
 
 @media screen and (max-width: 767px) {
     #mv {
-        height: 100%;
+        height: 100%!important;
     }
 }
 
@@ -1191,7 +1191,6 @@ background-size: 100%;
 
 #recruit .container1100.recruit_link_wrapper {
     background-color: #282c3c;
-    /* background-image: url("../img/logo_bg02.png"); */
     background-repeat: no-repeat;
     background-size: 7.1rem;
     background-position: 150% -50%;
@@ -1203,8 +1202,7 @@ background-size: 100%;
 
 @media screen and (max-width: 767px) {
     #recruit .container1100.recruit_link_wrapper {
-        background-color: #adc734;
-        /* background-image: url("../img/logo_bg02.png"); */
+        background-color: #282c3c;
         background-repeat: no-repeat;
         background-size: 4rem;
         background-position: -250% 50%;
@@ -1212,8 +1210,8 @@ background-size: 100%;
         padding-top: 0.6rem;
         padding-bottom: 0.6rem;
         color: #fff;
-        margin-left: 0.2rem;
-        margin-right: 0.2rem;
+        margin-left: 0.1rem;
+        margin-right: 0.1rem;
     }
 }
 
