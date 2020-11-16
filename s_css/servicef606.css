@@ -183,7 +183,7 @@ header ul li:nth-of-type(1) a {
 	bottom: -.2rem;
 	left: 50%;
 	transform: translateX(-50%);
-	background: #008090;
+	background: #33ac1b;
 }
 @media screen and (max-width:767px) {
 	.service_intro .introList .item .photo:after {
@@ -241,7 +241,7 @@ img {
 
 .service_construction {
 	background: #edf4f6;
-	padding: 1.8rem 0 1.2rem;
+	padding: 1.8rem 0 0.3rem;
 	position: relative;
 }
 @media screen and (max-width:767px) {
@@ -346,10 +346,11 @@ img {
 	}
 }
 .service_construction .box_text .txt {
-	font-size: .16rem;
-	font-weight: 500;
-	letter-spacing: .05em;
-	line-height: 2;
+  font-size: 0.28rem;
+    font-weight: 500;
+    letter-spacing: .05em;
+    line-height: 1.5;
+}
 }
 @media screen and (max-width:767px) {
 	.service_construction .box_text .txt {
@@ -359,7 +360,7 @@ img {
 	}
 }
 .service_construction .box_text .comment {
-	font-size: .14rem;
+	font-size: .2rem;
 	font-weight: 500;
 	letter-spacing: .05em;
 	line-height: 1;
