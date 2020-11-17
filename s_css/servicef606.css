@@ -544,14 +544,14 @@ img {
 
 .service_works {
 	margin-top: .8rem;
-	background: url('../img/service/works_bg.jpg');
+	background: url('../img/service/sevice_on_bg.jpg');
 	background-size: cover;
 	background-position: center;
 	padding: .6rem 0;
 }
 @media screen and (max-width:767px) {
 	.service_works {
-		background: url('../img/service/works_bg_sp.jpg');
+		background: url('../img/service/sevice_on_bg.jpg');
 		background-size: cover;
 		background-position: center;
 		margin-top: .4rem;
