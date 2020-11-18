@@ -3,7 +3,7 @@
 }
 .policy .policy_mv {
 	padding: 1.09rem 0 1rem;
-	background-image: url(../img/mv_purple.jpg);
+	background-image: url("../img/BP_mv_purple_sp.jpg");
 	background-size: cover;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -48,7 +48,7 @@
 	margin-top: 0.42rem;
 }
 .policy .content .list .item .ttl {
-	color: #00A0B4;
+	color: #33ac1b;
 	font-size: 0.16rem;
 	line-height: 1;
 	letter-spacing: 0.06em;
@@ -65,7 +65,7 @@
 @media screen and (max-width:767px) {
 	.policy .policy_mv {
 		padding: 0.7rem 0 0.62rem;
-		background-image: url(../img/mv_purple_sp.jpg);
+		background-image: url("../img/BP_mv_purple_sp.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-repeat: no-repeat;

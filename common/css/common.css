@@ -504,7 +504,7 @@ header ul li a:hover::before,
 }
 
 header.fixed ul li a {
-    color: #000;
+    color: #FFF;
 }
 
 body.menu_open header ul li a {
@@ -641,7 +641,7 @@ header ul li:last-child::after {
         width: 0.5rem;
         height: 0.3rem;
         border-radius: 4px;
-        color: #1a90d0;
+        color: #2c9617;
         text-align: center;
         font-size: 0.55em;
         display: block;
