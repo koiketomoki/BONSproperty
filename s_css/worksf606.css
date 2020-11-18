@@ -67,7 +67,7 @@ works wrap
 }
 @media screen and (max-width:768px) {
     .works_wrap{
-        padding: 60px 20px;
+        padding: 60px 0px;
     }
     .works_wrap h3{
         font-size: .24rem;
@@ -396,7 +396,6 @@ img {
 		position: relative;
 		width: auto;
 		top: 0;
-		margin-left: .4rem;
 	}
 	.service_construction .img img{
 		width: auto;
@@ -420,7 +419,12 @@ img {
 	}
 }
 @media screen and (max-width:767px) {
-	.service_construction .box {
+  .box_text_container{
+    display: flex;
+    justify-content: space-between;
+    flex-flow: column;
+  }
+  .service_construction .box {
 		padding: 0;
 		background: none;
 	}
@@ -466,11 +470,10 @@ img {
 }
 @media screen and (max-width:767px) {
 	.service_construction .box_text {
-		width: auto;
-		float: none;
-		padding: .83rem .2rem 1.35rem;
-		background: #fff;
-		margin-top: -.5rem;
+    width: auto;
+    float: none;
+    padding: 0.83rem 0.2rem 0rem;
+    background: rgb(255, 255, 255);
 	}
 }
 .service_construction .box_text .txt {
@@ -479,12 +482,14 @@ img {
     letter-spacing: .05em;
     line-height: 1.5;
 }
-}
+
 @media screen and (max-width:767px) {
 	.service_construction .box_text .txt {
-		font-size: .15rem;
-		position: relative;
-    z-index: 2;
+    font-size: 0.19rem;
+      font-weight: 500;
+      letter-spacing: 0.05em;
+      line-height: 1.5;
+      text-align: center;
 	}
 }
 .service_construction .box_text .comment {
@@ -498,7 +503,7 @@ img {
 }
 @media screen and (max-width:767px) {
 	.service_construction .box_text .comment {
-    font-size: .21rem;
+    font-size: .14rem;
         font-weight: 500;
         letter-spacing: .05em;
         line-height: 2em;

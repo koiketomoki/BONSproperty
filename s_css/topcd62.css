@@ -708,7 +708,7 @@ padding-top: 0.35rem;
 
 @media screen and (max-width: 767px) {
     .service_intro_text h4 {
-        font-size: 0.21rem;
+        font-size: 0.20rem;
         text-align: left;
         line-height: 1.76;
         letter-spacing: 0;
@@ -726,7 +726,7 @@ padding-top: 0.35rem;
 @media screen and (max-width: 767px) {
     .service_intro_text p {
         text-align: left;
-        font-size: 0.15rem;
+        font-size: 0.14rem;
         line-height: 2;
         padding-bottom: 0.25rem;
     }
@@ -860,7 +860,7 @@ background-size: 100%;
 
 
 /*============================
-施工事例
+オーナー様へ
 ============================*/
 
 #works {
@@ -900,12 +900,11 @@ background-size: 100%;
 }
 
 #works .section_ttl {
-    /* background-image: url("../common/img/ttl_logo_white.png"); */
-    background-position: center top;
+  background-position: center top;
     background-repeat: no-repeat;
     background-size: auto 0.4rem;
     margin-bottom: 0rem;
-    padding: 0.6rem 0;
+    padding: 0.6rem 0 0.4rem;
 }
 
 @media screen and (max-width: 767px) {
@@ -916,8 +915,9 @@ background-size: 100%;
 }
 
 .works_ttl_box {
-    max-width: 300px;
-    width: 100%;
+  margin: 0 auto;
+      max-width: 300px;
+      width: 100%;
 }
 
 @media screen and (max-width: 767px) {
@@ -938,7 +938,7 @@ background-size: 100%;
 @media screen and (max-width: 767px) {
     .works_ttl_box .vBorder {
         height: 0.3rem;
-        margin-bottom: 0;
+        margin-bottom: 0.3rem;
     }
 }
 
@@ -1081,9 +1081,8 @@ background-size: 100%;
 
 @media screen and (max-width: 767px) {
     #recruit {
-        padding-top: 2.2rem;
-        padding-bottom: 0.6rem;
-        background-image: url("../img/top_recruit_header_sp.jpg");
+        padding-top: 0.7rem;
+        padding-bottom: 0rem;
         background-position: center top;
         background-repeat: no-repeat;
         background-size: 100% auto;

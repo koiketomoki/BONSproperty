@@ -346,7 +346,7 @@ img {
 	}
 }
 .service_construction .box_text .txt {
-  font-size: 0.28rem;
+  font-size: 0.22rem;
     font-weight: 500;
     letter-spacing: .05em;
     line-height: 1.5;
@@ -444,8 +444,9 @@ img {
 }
 @media screen and (max-width:767px) {
 	.service_construction .listJob .item .ttl {
-		font-size: .21rem;
-		margin: .3rem 0 .15rem;
+    font-size: .18rem;
+      margin: .3rem 0 .15rem;
+      line-height: 1.5;
 	}
 }
 .service_construction .listJob .item .txt {
@@ -456,9 +457,9 @@ img {
 }
 @media screen and (max-width:767px) {
 	.service_construction .listJob .item .txt {
-		font-size: .15rem;
-		line-height: 2;
-		letter-spacing: .05em;
+    font-size: .148rem;
+    line-height: 2;
+    letter-spacing: .05em;
 	}
 }
 .service_construction .technology {
@@ -554,7 +555,7 @@ img {
 		background: url('../img/service/sevice_on_bg.jpg');
 		background-size: cover;
 		background-position: center;
-		margin-top: .4rem;
+		margin-top: 0;
 		padding: .75rem .4rem;
 	}
 }

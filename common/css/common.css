@@ -419,7 +419,7 @@ header ul li {
         line-height: 3;
     }
     header ul li.active a {
-        border-bottom: 2px solid #008090;
+        border-bottom: 2px solid #2c9617;
     }
 }
 
@@ -854,7 +854,7 @@ section {
 }
 
 .more_btn a:hover {
-    background-color: #3da74b;
+    background-color: #2c9617;
     color: #FFF;
     background-image: url("../img/link_arrow_white.png");
     background-position: 90% center;

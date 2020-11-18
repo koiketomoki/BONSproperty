@@ -381,8 +381,8 @@ body.toppage header h1 {
 		margin-top: -1.89rem;
 	}
 	.messageArea .box .box_text .txt {
-		font-size: .15rem;
-		letter-spacing: 0;
+    font-size: 0.148rem;
+    letter-spacing: 0px;
 	}
 }
 
