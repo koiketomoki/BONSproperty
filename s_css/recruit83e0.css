@@ -120,7 +120,7 @@ animation: fadeIn 1s ease 0s 1 normal;
 .recruit_mv {
 	position: relative;
 	padding-top: 37.5%;
-	background-image: url("../img/recruit/teo-zac-XHf_1n7lKH4-unsplash.jpg");
+	background-image: url("../img/recruit/Bp_recruit_bg_sp.jpg");
 	background-repeat: no-repeat;
 	background-position: center top;
 	background-size: 100% auto;
@@ -825,7 +825,7 @@ img {
 }
 @media screen and (max-width:767px) {
 	.recruit_application {
-		padding: 40px .2rem;
+		padding: 0px .2rem;
 	}
 	.recruit_application .container1100 {
 		padding: 40px 0;

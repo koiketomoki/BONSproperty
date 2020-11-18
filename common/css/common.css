@@ -504,11 +504,11 @@ header ul li a:hover::before,
 }
 
 header.fixed ul li a {
-    color: #FFF;
+    color: #000;
 }
 
 body.menu_open header ul li a {
-    color: #FFF;
+    color: #000;
 }
 
 @media screen and (max-width:767px) {
